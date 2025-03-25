@@ -1,0 +1,132 @@
+[
+    {
+        "user": "How many assignments should i do for this course?",
+        "bot": "You will have two main assignments for this course:\n\n1. **Assignment #1: AI-enabled App (50%):**  This is a group assignment where you build an AI-powered app functioning as a Personal Knowledge Advantage Machine (p-KaM) for a university professor.  You'll focus on either teaching or research tasks.  This project culminates in an expo-style presentation.\n\n2. **Assignment #2: Term Paper (40%):** This is also a group assignment. You'll choose a topic from the list on eCampus and write a comprehensive paper in IEEE conference paper format, along with creating accompanying presentation slides. \n"
+    }
+][
+    {
+        "user": "How many assignments should i do for this course?",
+        "bot": "You will have two main assignments for this course:\n\n1. **Assignment #1: AI-enabled App (50%):**  This is a group assignment where you build an AI-powered app functioning as a Personal Knowledge Advantage Machine (p-KaM) for a university professor.  You'll focus on either teaching or research tasks.  This project culminates in an expo-style presentation.\n\n2. **Assignment #2: Term Paper (40%):** This is also a group assignment. You'll choose a topic from the list on eCampus and write a comprehensive paper in IEEE conference paper format, along with creating accompanying presentation slides. \n"
+    },
+    {
+        "user": "Can you bring all the info from eCampus and give me here?",
+        "bot": "Unfortunately, WVU does not allow access to student\u2019s eCampus through AI. AI can only provide information given by the instructor. So Please login to your eCampus portal to find the necessary details.\n"
+    }
+][
+    {
+        "user": "What should i do for assignment 1, give me complete details",
+        "bot": "Assignment 1 requires you to build an AI-enabled app functioning as a University Professor\u2019s Personal Knowledge Advantage Machine (p-KaM).  Focus on either *Teaching* or *Research* tasks, not Service.\n\nHere's a breakdown:\n\n**Goal:**  Improve a professor's productivity in either teaching or research by creating a p-KaM.\n\n**Focus Areas (Choose One):**\n\n* **Teaching:** This could involve tasks like updating lecture materials, ensuring accuracy and current information, and identifying potentially irresponsible or unsafe content.  Think about how AI could help a professor stay up-to-date in their field and prepare engaging and relevant lectures.\n* **Research:** This could involve tasks like literature review, grant proposal writing, data analysis, or manuscript preparation.  Consider how AI could assist with finding relevant research, managing citations, or even generating reports.\n\n**Key Components of Your p-KaM:**\n\n1. **Interface/Prompts:** Your p-KaM needs a way for the professor to interact with it. This could be through text, audio, image, or video input.  You could also design it to operate in an autonomous mode, proactively performing tasks.\n\n2. **Local Knowledge Base:** This is a repository of information specific to the professor, such as their own publications, lecture notes, or research data.  This allows the p-KaM to personalize its assistance.\n\n3. **Global Knowledge Base:**  This connects to external resources like online databases, research journals, or news feeds. This ensures the p-KaM has access to the latest information in the chosen field.\n\n4. **Development Platform:** You'll need to choose a platform to build your p-KaM on.  This will depend on your group's skills and the specific functionalities you're aiming for.\n\n**Deliverables:**\n\n* **Functional p-KaM App:** The core deliverable is a working application demonstrating the chosen functionalities.\n* **Expo Presentation:** You will present your project in an expo format at the end of the semester, including a demonstration of your p-KaM.  Prepare for peer feedback and evaluation.\n* **Demo Video:**  A video of your demo should be submitted to the archival folder on eCampus, and the link submitted on eCampus.\n\n**Presentation Details:**  Your expo presentation should include:\n\n1. **Problem Statement (1 slide):** Briefly explain the problem your p-KaM addresses.\n2. **Technologies Used (1 slide):** List the technologies used in building your app.\n3. **Architecture Schematic (1 slide):**  A visual representation of your p-KaM's architecture.\n4. **Feature Demonstration:** Showcase the completed and demonstrable features of your p-KaM.\n5. **Live Demonstration:** A live demonstration of your system in action.\n\n**Grading:** This assignment is worth 50% of your final grade.  Peer evaluation through anonymous feedback during the expo will be a significant component of the grade.\n\n**Additional Information:**\n\n* **Q&A Sessions:**  The assignment will be discussed in more detail during Q&A sessions in class. Attend these sessions to clarify any doubts.\n* **Contemporary References:**  Refer to the provided resources on eCampus for inspiration and guidance.  These include information on building apps, AI ethics, and AI safety.\n* **Group Work:**  Utilize the group features on eCampus for collaboration, file sharing, discussions, task division, and communication.\n\n\nRemember to choose a specific area of focus (teaching or research) and clearly define the functionalities of your p-KaM.  Good luck!\n"
+    }
+][
+    {
+        "user": "hello",
+        "bot": "Hello! How can I help you today?  I can answer questions about the CS 474/574 Responsible AI course based on the information provided.\n"
+    }
+][
+    {
+        "user": "hello",
+        "bot": "Hello! How can I help you today?  I can answer questions about the CS 474/574 Responsible AI course based on the information provided.\n"
+    },
+    {
+        "user": "who is the professor",
+        "bot": "The professor for CS 474/CS 574 Responsible AI is Yenumula Venkata Ramana Reddy.  He is a Professor of Computer Science.\n"
+    }
+][
+    {
+        "user": "hello",
+        "bot": "Hello! How can I help you today?  I can answer questions about the CS 474/574 Responsible AI course based on the information provided.\n"
+    },
+    {
+        "user": "who is the professor",
+        "bot": "The professor for CS 474/CS 574 Responsible AI is Yenumula Venkata Ramana Reddy.  He is a Professor of Computer Science.\n"
+    },
+    {
+        "user": "what is syllabus",
+        "bot": "The syllabus for CS 474/CS 574 Responsible AI includes the following information:\n\n**Course Basics:**\n\n* **Credit Hours:** 3\n* **Prerequisites:** CS 230 or CS 472 or Instructor Consent\n\n**Instructor Information:**\n\n* **Instructor:** Yenumula Venkata Ramana Reddy, Professor of Computer Science\n* **Office:** AER 252, West Virginia University\n* **Office Hours:** By appointment via email or phone\n* **Email:** Ramana.Reddy@mail.wvu.edu\n* **Phone:** 304-293-9132\n* **More Information:** https://directory.statler.wvu.edu/faculty-staff-directory/ramana-reddy\n\n**Course Learning Outcomes:** Upon completion of the course, students should be able to:\n\n1. Understand the history and evolution of AI.\n2. Understand basic AI principles and algorithms.\n3. Analyze the societal impact of AI applications.\n4. Evaluate the trustworthiness and vulnerabilities of AI applications and formulate countermeasures.\n5. Apply relevant standards to AI technology.\n6. Understand the \"AI Bill of Rights\" and analyze AI applications for conformity.\n7. Incorporate safety and ethical principles into AI applications.\n8. Engineer systems using AI enabling technologies.\n9. Distinguish between AI hype and reality.\n\n**Assessment:**\n\n* **Scholarly Paper and Presentation (Group Assignment):** 40%\n* **Group Project (Implementation of a useful AI application):** 50% (Higher expectations for CS 574 students)\n* **Class Participation (Peer evaluation via Qualtrics):** 10%\n* **Group Project Expo Presentation (Peer and anonymous feedback):** Included in the Group Project grade\n\n**Grading Scale:**\n\n* 90-100: A\n* 80-89: B\n* 70-79: C\n* 60-69: D\n* < 60: F\n\n**Mid-Semester Grade:** Primarily based on class participation.\n\n**Attendance Policy:**\n\n* Attendance is mandatory.\n* Missing 5 classes: One letter grade reduction.\n* Missing 6 classes: Two letter grade reduction.\n* Missing more than 6 classes: F\n\n**Late Assignment and Missed Exam Policy:**\n\n* No make-up exams or quizzes.\n* One-week grace period for all submissions.\n\n**Institutional Policies:** Students are responsible for reviewing policies on inclusivity, academic integrity, incompletes, sale of course materials, sexual misconduct, adverse weather, student evaluation of instruction, and days of special concern/religious holidays.\n\n**Assignments for Fall 2024:**\n\n* **Assignment #1: AI-enabled App for a University Professor's Personal Assistant (Group Assignment):** 50%, due December 11, 2024.\n* **Assignment #2: Term Paper (Group Assignment):** 40%, due December 4, 2024.\n\n**Additional Resources and FAQs are available on eCampus.**  This includes topic lists for the term paper, information on group formation and collaboration tools, supplementary readings on AI ethics and safety, and a course calendar.  Direct access to eCampus by AI agents is not permitted.\n"
+    }
+][
+    {
+        "user": "what is the syllabus of CS576",
+        "bot": "Answer is not available in the context provided.  The provided text details the syllabus for CS 474/CS 574 Responsible AI.  There is no mention of CS 576.\n"
+    }
+][
+    {
+        "user": "who is the professor",
+        "bot": "The professor for CS 474/CS 574 Responsible AI is Yenumula Venkata Ramana Reddy.\n"
+    }
+][
+    {
+        "user": "who is the professor",
+        "bot": "The professor for CS 474/CS 574 Responsible AI is Yenumula Venkata Ramana Reddy.\n"
+    },
+    {
+        "user": "how many assignments are in the subject",
+        "bot": "There are two main assignments in the course:\n\n1. **Assignment #1: AI-enabled App (50%):**  Building an AI-powered personal assistant for a university professor, focusing on either teaching or research tasks.  This involves creating an interface, local and global knowledge bases, and utilizing a development platform.  It culminates in an expo-style presentation and peer grading.\n\n2. **Assignment #2: Term Paper (40%):**  A research paper on a chosen topic from the provided list on eCampus, following IEEE conference paper format.  This involves comprehensive research and a presentation.\n\n\nIt's important to note that while these are the two primary graded assignments, class participation (10%) is also a significant component of the final grade, including peer evaluation via Qualtrics surveys.\n"
+    }
+][
+    {
+        "user": "who is the professor for this course?",
+        "bot": "The professor for this course is Yenumula Venkata Ramana Reddy.  He is a Professor of Computer Science.\n"
+    }
+][
+    {
+        "user": "who is the professor for this course?",
+        "bot": "The professor for this course is Yenumula Venkata Ramana Reddy.  He is a Professor of Computer Science.\n"
+    },
+    {
+        "user": "how many assignments are in the subject",
+        "bot": "There are two main assignments in the course:\n\n1. **Assignment #1: AI-enabled App (50%):** Building an AI-powered app that acts as a University Professor's Personal Assistant, focusing on either teaching or research tasks.  This involves designing an AI agent with an interface, knowledge bases, and choosing a development platform.  It culminates in an expo-style presentation and peer grading.\n\n2. **Assignment #2: Term Paper (40%):**  A research paper on a chosen topic from the provided list on eCampus, following IEEE conference paper format. This involves research, writing, and a presentation.\n"
+    }
+][
+    {
+        "user": "how many assignments are in the subject",
+        "bot": "There are two main assignments in the course:\n\n1. **Assignment #1: AI-enabled App (50%):**  This is a group assignment where students develop an AI-powered app functioning as a Personal Knowledge Advantage Machine (p-KaM) for a university professor, focusing on either teaching or research tasks.  It involves creating an AI agent with an interface (text, audio, image, or video), a local knowledge base, a global knowledge base, and utilizing a development platform.  The project culminates in an expo-style presentation and peer grading.\n\n2. **Assignment #2: Term Paper (40%):** This is also a group assignment requiring students to choose a topic from a list on eCampus and write a comprehensive paper in IEEE conference paper format.  The paper will be evaluated based on format, comprehensiveness, thoroughness, clarity, and presentation.  Students must submit both the paper in Word format and the accompanying presentation slides.\n\nWhile not explicitly called \"assignments,\" **Class Participation (10%)** forms a significant portion of the grade and involves active engagement in discussions and peer evaluation via Qualtrics surveys.  This implies consistent preparation and contribution to class activities.\n"
+    }
+][
+    {
+        "user": "who is the professor for this course",
+        "bot": "The professor for this course is Yenumula Venkata Ramana Reddy.  He is a Professor of Computer Science.  You can find him in office AER 252 at West Virginia University.  Office hours are by appointment, which can be made by emailing him at Ramana.Reddy@mail.wvu.edu and/or calling 304-293-9132. More information is available at https://directory.statler.wvu.edu/faculty-staff-directory/ramana-reddy.\n"
+    }
+][
+    {
+        "user": "how many assignments are in the subject",
+        "bot": "There are two major assignments in the course:\n\n1. **Assignment #1: AI-enabled App for a University Professor's Personal Assistant (50%):** This group assignment involves building an AI-powered application to aid a professor in either teaching or research.  It's due Wednesday, December 11, 2024, at 11:59:00 PM EST.\n\n2. **Assignment #2: Term Paper (40%):** This is also a group assignment requiring students to select a topic from the \"Topics List on eCampus\" and write a comprehensive paper in IEEE Conference Paper Format. It's due Wednesday, December 4, 2024, at 11:59:00 PM EST.\n\nIn addition to these major assignments, there's also a class participation component (10%) evaluated through peer reviews using Qualtrics Surveys.  The group project (Assignment #1) also involves an expo-style presentation during the last week of classes, which contributes to the overall project grade.\n"
+    }
+][
+    {
+        "user": "How many assignments do i need to do for this course?",
+        "bot": "You will have two assignments for this course:\n\n1. **Assignment #1:  AI-enabled App (50%):**  This is a group assignment where you'll build an AI-enabled app to serve as a University Professor\u2019s Personal Assistant, focusing on either teaching or research tasks.  The app should include an interface (text, audio, image, or video), a local knowledge base, a global knowledge base, and be built on a development platform.  It's due Wednesday, December 11, 2024, at 11:59:00 PM EST.\n\n2. **Assignment #2: Term Paper (40%):** This is also a group assignment. You'll choose a topic from the list on eCampus and write a paper in IEEE Conference Paper Format.  The paper should be comprehensive and thorough. It's due Wednesday, December 4, 2024, at 11:59:00 PM EST.\n\nIn addition to these assignments, 10% of your grade will be based on class participation, which includes peer evaluation via Qualtrics surveys.  The group project (Assignment #1) will also be evaluated by peers during an Expo-style presentation.\n"
+    }
+][
+    {
+        "user": "how many assignments do i need to do for this course?",
+        "bot": "You will have two major assignments for this course:\n\n1. **Assignment #1: AI-enabled App (50%):** This is a group assignment where you'll build an AI-powered app functioning as a University Professor's Personal Assistant, focusing on either teaching or research tasks.  This project involves an in-class Q&A session and an end-of-semester expo-style presentation with peer grading.\n\n2. **Assignment #2: Term Paper (40%):** This is also a group assignment requiring you to choose a topic from the eCampus \"Topics List\" and write a paper in IEEE conference format.  This involves research, writing, and creating a presentation.\n\nIn addition to these two assignments, **Class Participation (10%)** contributes to your final grade, primarily through discussions and peer evaluations via Qualtrics surveys.\n"
+    }
+][
+    {
+        "user": "how many assignments are in the subject",
+        "bot": "There are two major assignments in the course:\n\n1. **Assignment #1: AI-enabled App (50%):**  Building an AI-enabled app to serve as a University Professor\u2019s Personal Assistant, focusing on either teaching or research tasks.  This is a group project with an expo-style presentation at the end of the semester.\n\n2. **Assignment #2: Term Paper (40%):**  A research paper on a chosen topic from the list provided on eCampus, following IEEE conference paper format. This is also a group assignment.\n\nIn addition to these major assignments, there is also a class participation component (10%) which is evaluated through peer review using Qualtrics surveys.\n"
+    }
+][
+    {
+        "user": "how many assignments are in the subject",
+        "bot": "There are two major assignments in the course:\n\n1. **Assignment #1: AI-enabled App (50%):**  Building an AI-enabled app to serve as a University Professor\u2019s Personal Assistant, focusing on either teaching or research tasks.  This is a group project with an expo-style presentation at the end of the semester.\n\n2. **Assignment #2: Term Paper (40%):**  A research paper on a chosen topic from the list provided on eCampus, following IEEE conference paper format. This is also a group assignment.\n\nIn addition to these major assignments, there is also a class participation component (10%) which is evaluated through peer review using Qualtrics surveys.\n"
+    },
+    {
+        "user": "who is the professor for this course",
+        "bot": "The professor for this course is Yenumula Venkata Ramana Reddy.  He is a Professor of Computer Science.  You can find him in AER 252 at West Virginia University.  His office hours are by appointment, which can be made by emailing him at Ramana.Reddy@mail.wvu.edu and/or calling 304-293-9132. More information is available at https://directory.statler.wvu.edu/faculty-staff-directory/ramana-reddy.\n"
+    }
+][
+    {
+        "user": "how many assignments are in the subject",
+        "bot": "There are two major assignments in the course:\n\n1. **Assignment #1: AI-enabled App (50%):**  Building an AI-enabled app to serve as a University Professor\u2019s Personal Assistant, focusing on either teaching or research tasks.  This is a group project with an expo-style presentation at the end of the semester.\n\n2. **Assignment #2: Term Paper (40%):**  A research paper on a chosen topic from the list provided on eCampus, following IEEE conference paper format. This is also a group assignment.\n\nIn addition to these major assignments, there is also a class participation component (10%) which is evaluated through peer review using Qualtrics surveys.\n"
+    },
+    {
+        "user": "who is the professor for this course",
+        "bot": "The professor for this course is Yenumula Venkata Ramana Reddy.  He is a Professor of Computer Science.  You can find him in AER 252 at West Virginia University.  His office hours are by appointment, which can be made by emailing him at Ramana.Reddy@mail.wvu.edu and/or calling 304-293-9132. More information is available at https://directory.statler.wvu.edu/faculty-staff-directory/ramana-reddy.\n"
+    },
+    {
+        "user": "who is the professor for this course",
+        "bot": "The professor for this course is Yenumula Venkata Ramana Reddy.  He is a Professor of Computer Science.  You can find him in office AER 252 at West Virginia University.  Office hours are by appointment via email (Ramana.Reddy@mail.wvu.edu) or phone (304-293-9132). More information is available at https://directory.statler.wvu.edu/faculty-staff-directory/ramana-reddy.\n"
+    }
+]
